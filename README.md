@@ -42,7 +42,10 @@ pip install pandas networkx matplotlib openpyxl
 ```
 ## Ejecución y modo de uso
 Se puede contar con entornos de desarrollo integrado (IDE) como Visual Studio Code, PyCharm, ThonnyPython para la ejecucion del programa o optar una ejecución directa desde la consola de comandos (CMD) mediante la ruta exacta donde se ubica el archivo.
---> C:\Users\Person> python GraficosRSL.py
+
+```bash
+C:\Users\Person> python GraficosRSL.py
+```
 
 Interfaz: Selecciona el archivo Excel, modificar dinámicamente el parametro de cantidad de palabras clave y exportar el grafico en formatos PNG, JPEG y PDF.
 
